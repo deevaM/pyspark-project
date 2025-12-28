@@ -1,0 +1,5 @@
+order_id,name,amount,order_type
+5001,John Doe,250.5,High Value
+5002,Jane Smith,145.0,Medium Value
+5003,Rita Mehra,389.99,High Value
+5004,Wei Zhang,89.99,Low Value
